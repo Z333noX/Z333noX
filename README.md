@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Z333noX! :D
+- 👋 Hi, I’m Z3noX! :D
 - 👀 I’m interested in making 3rd-party softwares and coding some games.
-- 🌱 I’m currently learning in IT High-School (JS, Lua, C++, Python).
+- 🌱 I’m currently learning JS, Lua, C++, Python.
 - 💞️ I’m looking to collaborate on making game mods and development.
 
 <!---
